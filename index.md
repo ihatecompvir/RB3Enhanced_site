@@ -2,6 +2,8 @@
 
 RB3Enhanced (Rock Band 3 Enhanced) is a Rock Band 3 Dashlaunch plugin for RGH Xbox 360 consoles that aims to provide extra features and patch the game to facilitate easier file modifications.
 
+This plugin is **not** intended to faciliate piracy, nor does it make any attempt at facilitating it. It's simply a collection of features and patches intended to enhance the RB3 experience. Please support Harmonix and buy your DLC legally! The majority of it is still for sale on the Xbox Live Marketplace.
+
 ### Requirements
 
 RB3Enhanced requires the following:
@@ -16,10 +18,13 @@ RB3Enhanced requires the following:
 
 ### Planned Features
 * "Corona fix" to stop the game from having issues on Corona motherboards
-* Song speed selector ala Clone Hero
-* CON check removal, allowing CONs to work in TU5
+* Song speed selector ala Clone Hero [(preview)](https://www.youtube.com/watch?v=BuXSdth-_Vo)
+* CON check removal, allowing custom songs in the CON format to work in TU5
 * File loader to load files from the HDD instead of from the ARK file
 * Song limit removal patch done in real-time without having to modify DTAs
+
+## Download
+RB3Enhanced can be downloaded via the Pinned message on the #rbhax channel in the [MiloHax discord server](https://discord.gg/QKe7vRnJG3). In the future a dedicated download link may be posted here, but due to the alpha status of this plugin, I'd prefer to keep things on Discord so quicker support/bug reports can be done.
 
 ## Installation Tutorial
 Installing RB3Enhanced is as simple as installing any other Dashlaunch plugin.
@@ -28,7 +33,7 @@ Installing RB3Enhanced is as simple as installing any other Dashlaunch plugin.
 
 ### Common Questions
 * **Q: Does this work on XBL?**
-* A: Possibly but please don't get on XBL on a modded console. 
+* A: Possibly, but please don't get on XBL on a modded console.
 
 * **Q: Does this work on Xenia?**
 * A: As Xenia doesn't even run RB3 properly yet, the answer is no. In theory, though, it may one day be compatible once RB3 is supported and if Xenia decides to add support for loading Sysdlls.
