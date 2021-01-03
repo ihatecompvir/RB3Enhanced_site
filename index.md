@@ -24,7 +24,7 @@ RB3Enhanced requires the following:
 * Song limit removal patch done in real-time without having to modify DTAs
 
 ## Download
-RB3Enhanced can be downloaded via the Pinned message on the #rbhax channel in the [MiloHax discord server](https://discord.gg/QKe7vRnJG3). In the future a dedicated download link may be posted here, but due to the alpha status of this plugin, I'd prefer to keep things on Discord so quicker support/bug reports can be done.
+RB3Enhanced can be downloaded via [this Mediafire link](https://www.mediafire.com/file/juapb1b8ez9ipx9/RB3Enhanced_0.2.zip/file). Alternatively, you can find the latest version via the Pinned message on the #rbhax channel in the [MiloHax discord server](https://discord.gg/QKe7vRnJG3).
 
 ## Installation Tutorial
 Installing RB3Enhanced is as simple as installing any other Dashlaunch plugin.
