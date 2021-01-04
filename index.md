@@ -26,6 +26,9 @@ RB3Enhanced requires the following:
 ## Download
 RB3Enhanced can be downloaded via [this Mediafire link](https://www.mediafire.com/file/juapb1b8ez9ipx9/RB3Enhanced_0.2.zip/file). Alternatively, you can find the latest version via the Pinned message on the #rbhax channel in the [MiloHax discord server](https://discord.gg/QKe7vRnJG3).
 
+### Changelog
+The latest version of RB3Enhanced is version 0.2. See the changelog [here](https://ihatecompvir.github.io/RB3Enhanced/changelog).
+
 ## Installation Tutorial
 Installing RB3Enhanced is as simple as installing any other Dashlaunch plugin.
 - Copy RB3Enhanced.xex to somewhere on your hard disk or USB flash drive and modify launch.ini to add it as a plugin in Dashlaunch, similar to installing XBDM.xex or another commonly used Dashlaunch plugin. The order in which you add the plugin does not seem to matter
