@@ -1,7 +1,7 @@
 ## Changelog
 Here you can view how RB3Enhanced has changed over time as well as download earlier builds.
 
-### 0.3 - [Download](https://www.mediafire.com/file/xwffgergcs7s1fw/RB3Enhanced_0.3.zip/file)
+### 0.3 - [Download](https://www.mediafire.com/file/81ci6zgwhcxrk5l/RB3Enhanced_0.3.zip/file)
 - Play 5-lane keys on guitar without having the goal unlocked
 - Setting song speed ala Clone Hero
 - Ability to set a track scroll speed multiplier beyond the normal value
