@@ -31,7 +31,7 @@ Plus more features I have probably forgotten to list here. Take a look through t
 * Per-song loading of custom sound banks, allowing things like custom drum/percussion SFX
 
 ## Download
-RB3Enhanced can be downloaded via [this Mediafire link](https://www.mediafire.com/file/81ci6zgwhcxrk5l/RB3Enhanced_0.3.zip/file). Alternatively, you can find the latest version in the #rbhax channel in the [MiloHax discord server](https://discord.gg/QKe7vRnJG3).
+RB3Enhanced can be downloaded via [this Mediafire link](https://www.mediafire.com/file/ky65kqu9c5o88tt/RB3Enhanced_0.3.0.1.zip/file). Alternatively, you can find the latest version in the #rbhax channel in the [MiloHax discord server](https://discord.gg/QKe7vRnJG3).
 
 ### Changelog
 The latest version of RB3Enhanced is version 0.2. See the changelog [here](https://ihatecompvir.github.io/RB3Enhanced/changelog).
