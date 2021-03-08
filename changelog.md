@@ -1,6 +1,11 @@
 ## Changelog
 Here you can view how RB3Enhanced has changed over time as well as download earlier builds.
 
+### 0.3.0.1 - [Download](https://www.mediafire.com/file/ky65kqu9c5o88tt/RB3Enhanced_0.3.0.1.zip/file)
+- Fixes a crash issue involving forcing venues without the black background modifier being present in the DTBs
+- Temporarily removes titleUpdateLocationPatch due to crashing issues
+- Adds "enableCustomModifiers" which allows custom modifiers to work if they are present in the DTBs
+
 ### 0.3 - [Download](https://www.mediafire.com/file/81ci6zgwhcxrk5l/RB3Enhanced_0.3.zip/file)
 - Play 5-lane keys on guitar without having the goal unlocked
 - Setting song speed ala Clone Hero
